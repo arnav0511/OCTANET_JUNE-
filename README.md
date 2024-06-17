@@ -1,6 +1,6 @@
 # OCTANET_JUNE- Repository
 
-This repository contains tasks completed by OctaNet Services Pvt. Ltd.
+This repository contains tasks to be submitted to OctaNet Services Pvt. Ltd. for Web development internship (June)
 
 ## Task 1: Landing Page
 - **Live Demo:** [Fitsure Landing Page](https://arnav0511.github.io/Fitsure_LandingPage/)
